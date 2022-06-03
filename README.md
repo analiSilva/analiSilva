@@ -19,8 +19,9 @@
 
 :books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unitários e conexão com MongoDB.
 
+:eight_spoked_asterisk: Gosto muito de conversar, trocar experiências, adoro um belo churrasco, uma praia e estar com amigos.
 
-
+:octocat: Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/anamora_lee" rel="nofollow">Instagram</a>, ou pelo <a href="https://www.linkedin.com/in/anali-silva" rel="nofollow">LinkedIn</a> e pode conhecer um pouco dos projetos que desenvolvi, que também podem ser encontrados nos repositórios.
 
 <br>
 <br>
