@@ -1,4 +1,4 @@
-####  Olá, seja muito bem vindo ao meu perfil do GitHub :wave:
+#### Olá, seja muito bem vindo ao meu perfil do GitHub :wave:
 
 <br>
 
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-####  Tecnologias e ferramentas:
+#### Tecnologias e ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
 
 <br>
@@ -37,7 +37,8 @@
   <br>
   <br>
 
-#### Contatos
+#### Contatos:
+  
 <div>
 <a href="https://instagram.com/anamora_lee" target="_blank"><img align="left" width="80px" src="https://camo.githubusercontent.com/60a9f9b357e1351715e2459f8ad097dd8d599320b20e6c59304429bd60b67b56/68747470733a2f2f692e6962622e636f2f716b47537031442f696e7374616772616d2e706e67" alt="instagram" data-canonical-src="https://i.ibb.co/qkGSp1D/instagram.png" style="max-width: 100%;">
  
