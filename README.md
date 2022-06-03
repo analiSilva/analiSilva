@@ -18,7 +18,10 @@
 
 :stars: Atualmente estou trabalhando na D1 - Zenvia, alocada em uma das maiores empresas de seguro do Brasil. Aqui eu construo assistentes virtuais com a plataforma ALTU, refatoro códigos nas apis existentes e faço novas apis rest, quando necessário.
 
-:books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unutários e MongoDB
+:books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unitários e conexão com MongoDB.
+
+
+
 
 <br>
 <br>
@@ -44,20 +47,3 @@
 
 
 <!-- <img src="https://github.com/analiSilva/analiSilva/blob/output/github-contribution-grid-snake.svg"/>-->
-
-<!-- ![Snake animation](https://github.com/analiSilva/blob/output/github-contribution-grid-snake.svg)-->
-
-<!--
-**analiSilva/analiSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
