@@ -14,7 +14,15 @@
 :books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unutários e MongoDB
 
 
- 
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analiSilva&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=analiSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ### Contatos
 <div>
 <a href="https://instagram.com/anamora_lee" target="_blank"><img align="left" width="80px" src="https://camo.githubusercontent.com/60a9f9b357e1351715e2459f8ad097dd8d599320b20e6c59304429bd60b67b56/68747470733a2f2f692e6962622e636f2f716b47537031442f696e7374616772616d2e706e67" alt="instagram" data-canonical-src="https://i.ibb.co/qkGSp1D/instagram.png" style="max-width: 100%;">
@@ -24,14 +32,7 @@
 
 
 
-
-
-
-
-
-
-
-<img src="https://github.com/analiSilva/analiSilva/blob/output/github-contribution-grid-snake.svg"/>
+<!-- <img src="https://github.com/analiSilva/analiSilva/blob/output/github-contribution-grid-snake.svg"/>-->
 
 <!-- ![Snake animation](https://github.com/analiSilva/blob/output/github-contribution-grid-snake.svg)-->
 
