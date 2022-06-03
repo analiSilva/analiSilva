@@ -1,8 +1,6 @@
 ###  Olá, seja muito bem vindo ao meu perfil do GitHub :wave:
 
-
-  Sou a Anali, tenho 34 anos, moro em São Paulo/SP e sou apaixonada por tecnologia, bichanos e doguinhos. Iniciei nesse mundo pouco mais de dois anos, quando decidi largar tudo (tudo mesmo) e me jogar de corpo e alma nesse mundo que tanto amo.
-
+  Sou a Anali, tenho 34 anos, moro em São Paulo/SP e sou apaixonada por tecnologia, bichanos e doguinhos. Iniciei nesse mundo pouco mais de dois anos, quando decidi largar tudo (tudo mesmo) e me jogar de corpo e alma nesse mundo que tanto amo. 
 
 ###  Tecnologias e ferramentas:
 
