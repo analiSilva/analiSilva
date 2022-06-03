@@ -1,4 +1,4 @@
-# Olá, seja muito bem vindo ao meu perfil do GitHub :wave:
+# Olá, seja muito bem vindo(a) ao meu perfil do GitHub :wave:
 
 <br>
 
