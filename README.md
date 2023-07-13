@@ -34,7 +34,7 @@
 <br>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/analiSilva">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analiSilva&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analiSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -50,7 +50,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
-<a href="https://www.linkedin.com/in/analiSilva" target="_blank"><img width="80px" src="https://camo.githubusercontent.com/a0c6b752f5ef0ae12858e115dbe851f393269057cc97aaf016be8c32ea24da99/68747470733a2f2f692e6962622e636f2f52795a783132622f6c696e6b6564696e2e706e67" alt="linkedin" data-canonical-src="https://i.ibb.co/RyZx12b/linkedin.png" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/anali-silva" target="_blank"><img width="80px" src="https://camo.githubusercontent.com/a0c6b752f5ef0ae12858e115dbe851f393269057cc97aaf016be8c32ea24da99/68747470733a2f2f692e6962622e636f2f52795a783132622f6c696e6b6564696e2e706e67" alt="linkedin" data-canonical-src="https://i.ibb.co/RyZx12b/linkedin.png" style="max-width: 100%;">
 </div>
 
 
