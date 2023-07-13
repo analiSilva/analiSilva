@@ -46,7 +46,9 @@
 ## Contatos:
   
 <div>
-<a href="https://www.instagram.com/anamora_lee" target="_blank"><img width="80px" src="https://camo.githubusercontent.com/a0c6b752f5ef0ae12858e115dbe851f393269057cc97aaf016be8c32ea24da99/68747470733a2f2f692e6962622e636f2f52795a783132622f6c696e6b6564696e2e706e67" alt="linkedin" data-canonical-src="https://i.ibb.co/RyZx12b/linkedin.png" style="max-width: 100%;">
+
+ 
+<a href="https://www.instagram.com/anamora_lee" target="_blank"><img width="80px" src="https://camo.githubusercontent.com/a0c6b752f5ef0ae12858e115dbe851f393269057cc97aaf016be8c32ea24da99/68747470733a2f2f692e6962622e636f2f52795a783132622f6c696e6b6564696e2e706e67" alt="linkedin" src="https://i.ibb.co/qkGSp1D/instagram.png" style="max-width: 100%;">
  
 <a href="https://www.linkedin.com/in/anali-silva" target="_blank"><img width="80px" src="https://camo.githubusercontent.com/a0c6b752f5ef0ae12858e115dbe851f393269057cc97aaf016be8c32ea24da99/68747470733a2f2f692e6962622e636f2f52795a783132622f6c696e6b6564696e2e706e67" alt="linkedin" data-canonical-src="https://i.ibb.co/RyZx12b/linkedin.png" style="max-width: 100%;">
 </div>
