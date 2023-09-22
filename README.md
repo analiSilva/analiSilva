@@ -2,7 +2,7 @@
 
 <br>
 
-  Sou a Anali, tenho 34 anos, moro em São Paulo/SP e sou apaixonada por tecnologia, bichanos e doguinhos. Iniciei nesse mundo pouco mais de dois anos, quando decidi largar tudo (tudo mesmo) e me jogar de corpo e alma nesse mundo que tanto amo :purple_heart:
+  Sou a Anali, tenho 36 anos, moro em São Paulo/SP e sou apaixonada por tecnologia, bichanos e doguinhos. Iniciei nesse mundo pouco mais de três anos, quando decidi largar tudo (tudo mesmo) e me jogar de corpo e alma nesse mundo que tanto amo :purple_heart:
   
 <br>
 <br>
@@ -21,13 +21,13 @@
 <br>
 <br>
 
-:stars: Atualmente estou trabalhando na D1 - Zenvia, alocada em uma das maiores empresas de seguro do Brasil. Aqui eu construo assistentes virtuais com a plataforma ALTU, refatoro códigos nas apis existentes e faço novas apis rest, quando necessário.
+:stars: Atualmente estou trabalhando na Zenvia, alocada em uma das maiores empresas de seguro do Brasil, em uma squad financeira. Aqui eu construo assistentes virtuais com a plataforma ZenviaNLU, refatoro códigos nas apis existentes e faço novas apis REST e SOAP, quando necessário.
 
-:books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unitários e conexão com MongoDB.
+:books: Tenho estudado sobre Node.Js, com intuito de aprimorar meu conhecimento sobre o tema, sobre testes unitários e conexão com MongoDB, como também tenho estudado a linguagem Golang.
 
 :eight_spoked_asterisk: Gosto muito de conversar, trocar experiências, adoro um belo churrasco, uma praia e estar com amigos.
 
-:octocat: Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/anamora_lee" rel="nofollow">Instagram</a>, ou pelo <a href="https://www.linkedin.com/in/anali-silva" rel="nofollow">LinkedIn</a> e pode conhecer um pouco dos projetos que desenvolvi, que também podem ser encontrados nos repositórios.
+:octocat: Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/anamora_lee" rel="nofollow">Instagram</a>, ou pelo <a href="https://www.linkedin.com/in/anali-silva" rel="nofollow">LinkedIn</a>, como também pode conhecer um pouco de alguns dos projetos que desenvolvi, que estão nos repositórios aqui do Github.
 
 <br>
 <br>
