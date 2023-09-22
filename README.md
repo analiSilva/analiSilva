@@ -3,6 +3,7 @@
 <br>
 
   Sou a Anali, tenho 36 anos, moro em São Paulo/SP e sou apaixonada por tecnologia, bichanos e doguinhos. Iniciei nesse mundo pouco mais de três anos, quando decidi largar tudo (tudo mesmo) e me jogar de corpo e alma nesse mundo que tanto amo :purple_heart:
+
   
 <br>
 <br>
